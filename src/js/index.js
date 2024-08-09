@@ -9,6 +9,7 @@ async function gerarConselho() {
     idDoConselho.innerText = `ADVICE #${conselhoGerado.slip.id}`
 }
 
+gerarConselho()
 btnConselhoAleatorio.addEventListener("click", () => {
     gerarConselho()
 })
