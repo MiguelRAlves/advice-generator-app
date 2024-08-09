@@ -1,0 +1,25 @@
+@media(max-width: 490px){
+    .advices{
+        min-width: 0px;
+        max-width: 300px;
+        padding: 0px 15px;
+    }
+
+    .container-advices{
+        min-width: 0px;
+        max-width: 270px;
+    }
+}
+
+@media(max-width: 341px){
+    .advices{
+        min-width: 0px;
+        max-width: 250px;
+        padding: 0px 15px;
+    }
+
+    .container-advices{
+        min-width: 0px;
+        max-width: 220px;
+    }
+}
