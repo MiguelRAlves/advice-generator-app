@@ -3,7 +3,7 @@
 
 ## Content
 
- An useful random advice generator, may this simple creation help you.
+ A useful random advice generator, may this simple creation help you.
 
 
 ## Screenshot/Preview
