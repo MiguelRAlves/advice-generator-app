@@ -10,6 +10,4 @@ async function gerarConselho() {
 }
 
 gerarConselho()
-btnConselhoAleatorio.addEventListener("click", () => {
-    gerarConselho()
-})
+btnConselhoAleatorio.addEventListener("click", () => gerarConselho())
