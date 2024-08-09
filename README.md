@@ -1,4 +1,4 @@
-# Advice generator app solution
+# Advice Generator App
 
 
 ## Content
@@ -24,8 +24,8 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- JS (to be added)
-- [Advice Generator API](https://api.adviceslip.com/#endpoint-random) (to be added)
+- JS
+- [Advice Generator API](https://api.adviceslip.com/#endpoint-random)
 
 
 
